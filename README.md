@@ -29,7 +29,7 @@ The system showcases the ReAct (Reasoning + Acting) pattern, where agents can re
 1. Clone the repository:
 ```bash
 git clone https://github.com/AI-Explorers-Hub/NextGen-Movie-Assistant.git
-cd ReAct-agents
+cd NextGen-Movie-Assistant
 ```
 
 2. Install required dependencies:

@@ -28,7 +28,7 @@ The system showcases the ReAct (Reasoning + Acting) pattern, where agents can re
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AI-Explorers-Hub/NextGen-Movie-Assistant.git
 cd ReAct-agents
 ```
 
